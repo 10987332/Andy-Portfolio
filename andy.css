@@ -1,0 +1,46 @@
+body {
+  /* margin: auto; */
+  background-image: url("bg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.main {
+  width: 60%;
+  margin: auto;
+}
+
+.andy-name {
+  background: rgba(5, 45, 64, 0.25);
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+  backdrop-filter: blur(7px);
+  -webkit-backdrop-filter: blur(7px);
+  border-radius: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  font-size: 1.5rem;
+  font-family: "Times New Roman", Times, serif;
+  color: #fff;
+  text-align: center;
+  padding: 10px;
+}
+
+h2 {
+  margin: 0;
+  padding: 0;
+}
+
+.andy-info {
+  margin-top: 1rem;
+  background: rgba(5, 45, 64, 0.4);
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+  backdrop-filter: blur(7px);
+  -webkit-backdrop-filter: blur(7px);
+  border-radius: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  height: 75vh;
+  padding: 0.7em;
+  font-size: 1.5rem;
+  color: aliceblue;
+  word-spacing: 0.5rem;
+  text-align: justify;
+}
